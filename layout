@@ -1,0 +1,25 @@
+- Header
+     - Logo
+     - Navigation bar
+          - Concerts Icon
+          - Concerts
+          - Reviews Icon
+          - Reviews
+          - About Us Icon
+          - About Us
+
+- Content Area: 
+     - Top News / Reviews section
+          - Top Photo
+          - Top Title
+          - Top Description
+     - Side Bar
+          - Newsletter Signup Title
+          - Newsletter Signup input field
+          - Newsletter Signup button
+          - Upcoming Concerts
+          - FAQ
+     - Recent News and reviews section
+
+- Footer
+     - Logo

@@ -274,6 +274,7 @@ footer {
 
 /* Tablet Styles */
 @media (min-width:768px) {
+
     /* Header */
         .main-header{
             width:94%;
@@ -317,10 +318,28 @@ footer {
         .feed {
             width:60%;
             float:left;
+            border-right: 1px solid #ccc;
         }
      
         .feed-img {
             width:35%;
+        }
+
+    /* DETAILED PAGES */
+        .reviews-img, .news-img{
+            width: 50%;
+            float: left;
+        }
+        
+        .detail-title{
+            width: 47%;
+            float: left;
+        }
+        .detail{
+            width: 100%;    
+        }
+        .detail .newsletter input{
+            display: inline;
         }
 
     /* Footer */
@@ -331,27 +350,6 @@ footer {
         #footer-logo{
             width:30%;
             margin:auto;
-        }
-
-    /* DETAILED PAGES */
-        .reviews-img, .news-img{
-            width:50%;
-            margin:0px;
-            float:left;
-        }
-     
-        .detail-title{
-            width:50%;
-            float:right;
-        }
-        aside.detail{
-            width:100%;    
-        }
-        .detail .newsletter h2{
-            display:inline;
-        }
-        .detail .newsletter input{
-            display:inline;
         }
 }
  
